@@ -1,0 +1,144 @@
+/*
+Persian Car CMS
+Powered By netparadis.com
+VERSION 1.0.0
+*/
+
+form {
+	padding:0px;
+	margin:0px;
+}
+body {
+	font-family:tahoma;
+	color:#000;
+	background-color:#FFF;
+	background: url(../images/background.jpg) repeat-x top;
+	font-size:11px;
+	margin:0px;
+	padding:0px;
+}
+.mainWidth {
+	width:766px;
+	margin:0 auto;
+}
+.header {
+	width:766px;
+	height:268px;
+	background:url(../images/header.jpg) no-repeat;
+}
+.table th {
+	height:23px;
+	background-color:#E1EBFB;
+	font-weight:normal;
+	text-align:right;
+	padding-right:5px;
+	direction:rtl;
+}
+
+.table td {
+	padding-right:5px;
+	direction:rtl;
+	height:18px;
+	background-color:#eeeeee;
+}
+.miniSearch {
+	height:110px;
+	direction:rtl;
+}
+.miniSearch .pad {
+	padding-top:10px;
+	padding-right:30px;
+}
+.red {
+	color:#b0233a;
+}
+.black {
+	color:#191919;
+}
+.blue {
+	color:#069;
+}
+.success {
+	border:1px solid #AFDCB5;
+	background-color:#E8F4E8;
+	direction:rtl;
+	padding:10px;
+	text-align:center;
+	margin-top:10px;
+}
+
+.error {
+	border:1px solid #FF4045;
+	background-color:#FCC;
+	direction:rtl;
+	padding:10px;
+	text-align:center;
+	margin-top:10px;
+}
+.si1 {
+	color:#999
+}
+.si2 {
+	color:#666
+}
+.center {
+	text-align:center;
+}
+.mainMenu {
+	direction:rtl;
+	padding-right:15px;
+	line-height:15px;
+}
+.lastcatBox {
+	width:130px;
+	float:right;
+}
+.catBox {
+	width:170px;
+	float:right;
+}
+a {
+	text-decoration:none;
+	color:#069;
+}
+input,textarea,select {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	color:#000;
+}
+.goBtn {
+	border:none;
+	padding:0px;
+}
+a:hover {
+	color:#F00;
+}
+
+.content {
+	margin-top:10px;
+	border:1px solid #CCC;
+	padding:20px;
+	margin-right:9px;
+	text-align:right;
+}
+.dir { direction:rtl; }
+
+.rightBlock {
+	float:right;
+	width:195px;
+}
+
+h1 {
+	direction:rtl;
+	font-weight:normal;
+	font-size:11px;
+	padding-bottom:7px;
+	color:#900;
+}
+.leftBlock {
+	float:right;
+	width:520px;
+}
+
+.fl { float:right; }
+.cl { clear:both; }
