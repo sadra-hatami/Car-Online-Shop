@@ -1,6 +1,6 @@
 <div align="center">
 
-# Online Car Store
+# Car Online Shop
 # 🚗
 
 ### A PHP site for car ads, categories, and users
@@ -56,7 +56,7 @@ Browse car listings, open a listing, and manage ads, categories, users, and mess
 
 # 📖 About
 
-**Online Car Store** is a PHP site for car listings.
+**Car Online Shop** is a PHP site for car listings.
 
 A visitor opens the home page, browses ads, and reads a listing. The desk behind it covers categories, subcategories, users, comments, and messages. The SQL file builds the tables, and car images sit in the `images` folder.
 
@@ -111,7 +111,7 @@ The product store in [Online Shop](https://github.com/sadra-hatami/Online-Shop) 
 # 📁 Project Structure
 
 ```text
-Online-Car-Store/
+Car-Online-Shop/
 ├── index.php
 ├── ads.php
 ├── cat.php
@@ -139,8 +139,8 @@ Online-Car-Store/
 # 🚀 Installation
 
 ```bash
-git clone https://github.com/sadra-hatami/Online-Car-Store.git
-cd Online-Car-Store
+git clone https://github.com/sadra-hatami/Car-Online-Shop.git
+cd Car-Online-Shop
 ```
 
 1. Place the folder under a PHP server, such as XAMPP `htdocs`.
@@ -176,7 +176,7 @@ The SQL file creates the `cars` database. If the names differ, make `connect.php
 
 | Repository | Role |
 |---|---|
-| **[Online Car Store](https://github.com/sadra-hatami/Online-Car-Store)** | Car listings (this repo) |
+| **[Car Online Shop](https://github.com/sadra-hatami/Car-Online-Shop)** | Car listings (this repo) |
 | **[Online Shop](https://github.com/sadra-hatami/Online-Shop)** | Product storefront |
 | **[Electronics Business Website](https://github.com/sadra-hatami/Electronics-Business-Website)** | Electronics storefront |
 
